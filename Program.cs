@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Written by Zach Lifferth
+//Final Project CS 1400
+//Coach Emailer Program
+
+using System;
 using System.Diagnostics;
 
 namespace FinalProject 
