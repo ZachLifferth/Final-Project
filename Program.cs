@@ -6,7 +6,7 @@ using System;
 using System.Text;
 using System.Diagnostics;
 
-namespace FinalProject 
+namespace FinalProject
 {
     internal class Program
     {
@@ -18,12 +18,13 @@ namespace FinalProject
             var fileContents = LoadFile();
 
             List<string> searchResults = CoachSearch(schoolName, fileContents);
-            
+
             Console.WriteLine($"{searchResults.Count} coaches found.");
-            
+
             foreach (var coach in searchResults)
             {
-                Console.WriteLine(coach);
+                //Console.WriteLine(coach);
+                FormatOutput(coach);
             }
         }
         //This method will be able to go through the file
@@ -42,14 +43,24 @@ namespace FinalProject
                 }
             }
 
+            searchResults.Sort();
             return searchResults;
-            
         }
 
         static IEnumerable<string> LoadFile()
         {
             string path = "COACHES.csv";
             return File.ReadLines(path, Encoding.UTF8);
+        }
+
+        static void FormatOutput(string resultLine)
+        {
+            string[] resultSplit = resultLine.Split("|");
+            Console.WriteLine($"NAME:\t{resultSplit[3]}");
+            Console.WriteLine($"EMAIL:\t{resultSplit[4]}");
+            Console.WriteLine($"SCHOOL:\t{resultSplit[0]}");
+            Console.WriteLine($"SHORT:\t{resultSplit[1]}");
+            Console.WriteLine();
         }
     }
 }
@@ -66,23 +77,23 @@ use cases: user searches for coach by school name, user searches for assistant c
 
 10 required elements 
 
-1. reading from a text file: coaches and schools in a text file 
+1. reading from a text file: coaches and schools in a text file [x]
 
-2. List: list of all coaches and schools 
+2. List: list of all coaches and schools [x]
 
-3. for each: show results of searches 
+3. for each: show results of searches [x]
 
-4. two methods:  SearchHeadCoach, SearchSchool
+4. two methods:  SearchDivision, SearchSchool []
 
-5. two methods: SearchAssistantCoach, LoadFile(find file load from directory, put everything into memory) 
+5. two methods: FormatOutput, LoadFile(find file load from directory, put everything into memory) [x]
 
-6. arrays: load the contents of the text file to array and then search the array
+6. arrays: load the contents of the text file to array and then search the array [x]
 
-7. if/else: to figure out logic in our search
+7. if/else: to figure out logic in our search [x]
 
-8: input from user: ask for a school and what type of coach they are looking for 
+8: input from user: ask for a school and what type of coach they are looking for [x]
 
-9. string formatting: we can format the coach results
+9. string formatting: we can format the coach results [x]
 
-10. switch: determine the type of search the user may want.
+10. switch: determine the type of search the user may want. []
 */
