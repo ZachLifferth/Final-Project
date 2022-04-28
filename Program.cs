@@ -3,6 +3,7 @@
 //Coach Emailer Program
 
 using System;
+using System.Text;
 using System.Diagnostics;
 
 namespace FinalProject 
@@ -11,7 +12,15 @@ namespace FinalProject
     {
         static void Main()
         {
-            List<string> searchResults = CoachSearch("Snow College");
+            Console.Write("Please enter a school name: ");
+            string? schoolName = Console.ReadLine();
+
+            var fileContents = LoadFile();
+
+            List<string> searchResults = CoachSearch(schoolName, fileContents);
+            
+            Console.WriteLine($"{searchResults.Count} coaches found.");
+            
             foreach (var coach in searchResults)
             {
                 Console.WriteLine(coach);
@@ -19,10 +28,28 @@ namespace FinalProject
         }
         //This method will be able to go through the file
         //After this is done it will return the coaches from the certain school
-        static List<string> CoachSearch(string school)
+        static List<string> CoachSearch(string school, IEnumerable<string> fileContents)
         {
-            Debug.Assert(school.Length > 0, "No school Found");
-            return new List<string> {"Coach Long"};
+            Debug.Assert(school.Length > 0, "No school Entered");
+
+            List<string> searchResults = new List<string>();
+
+            foreach (var item in fileContents)
+            {
+                if (item.ToLower().IndexOf(school.ToLower()) > -1)
+                {
+                    searchResults.Add(item);
+                }
+            }
+
+            return searchResults;
+            
+        }
+
+        static IEnumerable<string> LoadFile()
+        {
+            string path = "COACHES.csv";
+            return File.ReadLines(path, Encoding.UTF8);
         }
     }
 }
