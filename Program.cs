@@ -20,12 +20,12 @@ namespace FinalProject
             Console.Write("Please enter your selection here: ");
 
             string divSelection = Console.ReadLine();
-            
-            if(ValidateDiv(divSelection) == false)
+
+            if (ValidateDiv(divSelection) == false)
             {
                 return;
             }
-            
+
             string divisionKey = GetDivSearchKey(divSelection);
 
             Console.Write("Please enter a school name: ");
@@ -33,7 +33,7 @@ namespace FinalProject
 
             var fileContents = LoadFile();
 
-            List<string> searchResults = CoachSearch(schoolName, fileContents);
+            List<string> searchResults = CoachSearch(divisionKey, schoolName, fileContents);
 
             Console.WriteLine($"{searchResults.Count} coaches found.");
 
@@ -46,7 +46,9 @@ namespace FinalProject
 
         static bool ValidateDiv(string divSelection)
         {
-            if (divSelection.ToLower() == "a" || divSelection.ToLower() == "b" || divSelection.ToLower() == "c")
+            if (divSelection.ToLower() == "a" || 
+                divSelection.ToLower() == "b" || 
+                divSelection.ToLower() == "c")
             {
                 return true;
             }
@@ -63,15 +65,15 @@ namespace FinalProject
 
             switch (divSelection.ToLower())
             {
-                case "a": 
+                case "a":
                     divisionKey = "NCAA_D1";
-                    break;  
-                
-                case "b": 
+                    break;
+
+                case "b":
                     divisionKey = "NCAA_D2";
                     break;
 
-                default: 
+                default:
                     divisionKey = "ALL";
                     break;
             }
@@ -82,7 +84,7 @@ namespace FinalProject
 
         //This method will be able to go through the file
         //After this is done it will return the coaches from the certain school
-        static List<string> CoachSearch(string school, IEnumerable<string> fileContents)
+        static List<string> CoachSearch(string divison, string school, IEnumerable<string> fileContents)
         {
             Debug.Assert(school.Length > 0, "No school Entered");
 
@@ -90,10 +92,24 @@ namespace FinalProject
 
             foreach (var item in fileContents)
             {
-                if (item.ToLower().IndexOf(school.ToLower()) > -1)
+                if (divison == "ALL")
                 {
-                    searchResults.Add(item);
+
+                    if (item.ToLower().IndexOf(school.ToLower()) > -1)
+                    {
+                        searchResults.Add(item);
+                    }
+
                 }
+                else
+                {
+                    if (item.ToLower().IndexOf(school.ToLower()) > -1 &&
+                         item.IndexOf(divison) > -1)
+                    {
+                        searchResults.Add(item);
+                    }
+                }
+
             }
 
             searchResults.Sort();
@@ -111,8 +127,9 @@ namespace FinalProject
             string[] resultSplit = resultLine.Split("|");
             Console.WriteLine($"NAME:\t{resultSplit[3]}");
             Console.WriteLine($"EMAIL:\t{resultSplit[4]}");
-            Console.WriteLine($"SCHOOL:\t{resultSplit[0]}");
-            Console.WriteLine($"SHORT:\t{resultSplit[1]}");
+            Console.WriteLine($"SCHOOL:\t{resultSplit[1]}");
+            Console.WriteLine($"SHORT:\t{resultSplit[2]}");
+            Console.WriteLine($"DIV:\t{resultSplit[0]}");
             Console.WriteLine();
         }
     }
@@ -136,7 +153,7 @@ use cases: user searches for coach by school name, user searches for assistant c
 
 3. for each: show results of searches [x]
 
-4. two methods:  SearchDivision, SearchSchool []
+4. two methods:  ValidateDiv, SearchSchool [x]
 
 5. two methods: FormatOutput, LoadFile(find file load from directory, put everything into memory) [x]
 
@@ -148,5 +165,5 @@ use cases: user searches for coach by school name, user searches for assistant c
 
 9. string formatting: we can format the coach results [x]
 
-10. switch: determine the type of search the user may want. []
+10. switch: determine the type of search the user may want. [x]
 */
