@@ -1,227 +1,251 @@
-SchoolName|SchoolNameShort|Division|CoachName|CoachEmail
-Oregon State University|OSU|NCAA_D1|Alex Guyer| Alex.Guyer@oregonstate.edu
-Oregon State University|OSU|NCAA_D1|BJ Craig| BJ.Craig@oregonstate.edu
-University of the Pacific|U Pacific|NCAA_D1|Brian Lanoye| Blanoye@pacific.edu
-University of Kentucky|UK|NCAA_D1|Josh Oldroyd| Josh.Oldroyd@uky.edu
-Marquette University|MU|NCAA_D1|Louis Bennett| Louis.bennett@marquette.edu
-Dayton University|Dayton|NCAA_D1|Alex Ranalli| aranalli1@udayton.edu
-University of the Pacific|U Pacific|NCAA_D1|Adam Reeves| areeves@pacific.edu
-Wake Forest University|WFU|NCAA_D1|Steve Armas| armasas@wfu.edu
-Georgetown University|Georgetown|NCAA_D1|Brian Bouhl| bb1044@georgetown.edu
-University of Louisville|UL|NCAA_D1|Bryan Green| bryang@GoCards.com
-Houston Baptist University|HBU|NCAA_D1|Chris Dodd| cdodd@hbu.edu
-Boston College|BC|NCAA_D1|Charlie Rugg| charles.rugg@bc.edu
-George Washington University|GWU|NCAA_D1|Craig Jones| cjones1@gwu.edu
-Dayton University|Dayton|NCAA_D1|Dennis Currier| dcurrier1@udayton.edu
-LaSalle University|LaSalle U|NCAA_D1|Mike Discavage| discavage@lasalle.edu
-Indiana University|IU|NCAA_D1|Danny O'Rourke| dporourk@indiana.edu
-Marshall University|Marshall|NCAA_D1|Josh Faga| faga@marshall.edu
-University of Rhode Island|URI|NCAA_D1|Frank Bergren| frank_bergren@uri.edu
-North Carolina State University|NC State|NCAA_D1|George Kiefer| grkiefer@ncsu.edu
-Davidson University|Davidson|NCAA_D1|Jarred Brookins| jabrookins@davidson.edu
-Davidson University|Davidson|NCAA_D1|Jesse DiLuzio| jediluzio@davidson.edu
-California State University, Bakersfield|CSU Bakersfield|NCAA_D1|James Garces| jgarces1@csub.edu
-Duke University|Duke|NCAA_D1|John Kerr| jjk21@duke.edu
-Dayton University|Dayton|NCAA_D1|Kelly Altman| kaltman2@udayton.edu
-Saint Louis University|SLU|NCAA_D1|Kevin Kalish| kevin.kalish@slu.edu
-Gonzaga University|GU|NCAA_D1|Aaron Lewis| lewisa@gonzaga.edu
-Georgetown University|Georgetown|NCAA_D1|Mike Casper| mc2420@georgetown.edu
-Davidson University|Davidson|NCAA_D1|Mike Babst| mibabst@davidson.edu
-Duke University|Duke|NCAA_D1|Michael Brady| michael.brady@duke.edu
-University of California, Los Angeles|UCLA|NCAA_D1|Andres Ochoa| msoccer@athletics.ucla.edu
-Loyola University, Chicago|LUC|NCAA_D1|Niel Jones| njones11@luc.edu
-University of Massachusetts|UMass|NCAA_D1|Ryan Hulings| rhulings@umass.edu
-Northwestern University|NWU|NCAA_D1|Russell Payne| russell.payne@northwestern.edu
-Marshall University|Marshall|NCAA_D1|Kyle Sniatecki| sniatecki@marshall.edu
-University of San Fransisco|USF|NCAA_D1|Sam Reynolds| sreynolds1@usfca.edu
-Oregon State University|OSU|NCAA_D1|Terry Boss| terence.boss@oregonstate.edu
-Duke University|Duke|NCAA_D1|Tristan Wierbonski| tristan.wierbonski@duke.edu
-University of Massachusetts|UMass|NCAA_D1|Fran O'Leary| umassmsoccer@umass.edu
-Wake Forest University|WFU|NCAA_D1|Jonathan Lagos| wfsoccer@wfu.edu
-Gonzaga University|GU|NCAA_D1|James Williamson| williamsonj@gonzaga.edu
-Temple University|TU|NCAA_D1|Alex Shinsky|Alex.Shinsky@temple.edu
-West Virginia University|WVU|NCAA_D1|Andy Wright|Andy.Wright@mail.wvu.edu
-Long Island University|LIU|NCAA_D1|Brendan Reardon|Brendan.Reardon@liu.edu
-Nortre Dame|ND|NCAA_D1|Chris Rolfe|CROLFE@ND.EDU
-Loyal Marymount University|LMU|NCAA_D1|Christian Madrigal|Christian.Madrigal@lmu.edu
-University of Kentucky|UK|NCAA_D1|Marcus Aldaba|M.Aldaba@uky.edu
-Nortre Dame|ND|NCAA_D1|Mike Graczyk|MGRACZYK@ND.EDU
-Nortre Dame|ND|NCAA_D1|Chad Riley|MSOCCER-LIST@ND.EDU
-California State University, Northridge|CSU Northridge|NCAA_D1|Milan Radovic|Milan.radovic@csun.edu
-West Virginia University|WVU|NCAA_D1|Nick Noble|Nick.Noble@mail.wvu.edu
-University of South Carolina|South Carolina|NCAA_D1|Tony Annan|SCMensSoccer@mailbox.sc.edu
-University of California Riverside|UC Riverside|NCAA_D1|Tim Cupello|Tim.Cupello@ucr.edu
-University of California, Santa Barbara|UCSB|NCAA_D1|Tim Vom Steeg|Tim.VomSteeg@athletics.ucsb.edu
-Denver University|DU|NCAA_D1|Zach Schilawski|Zachary.Schilawski@du.edu
-Saint Marys College of California|St. Marys|NCAA_D1|Adam Cooper|acooper@stmarys-ca.edu
-University of Central Florida|UCF|NCAA_D1|Alex Gott|agott@athletics.ucf.edu
-University of Connecticut|UConn|NCAA_D1|Andy Parker|andrew.parker@uconn.edu
-University of Virginia|UV|NCAA_D1|Adam Perron|anp7d@virginia.edu
-University of South Carolina|South Carolina|NCAA_D1|Alec Purdie|apurdie@mailbox.sc.edu
-University of Texas, Rio Grande Valley|UTRGV|NCAA_D1|Archie Massen|archie.massen01@utrgv.edu
-Grand Canyon University|GCU|NCAA_D1|Austin Nyquist|austin.nyquist@gcu.edu
-Northwestern University|NWU|NCAA_D1|Aziz Tahir|aziz.tahir@northwestern.edu
-Mount Saint Mary's University|MSMU|NCAA_D1|Bryan Cunningham|b.m.cunningham@msmary.edu
-Georgetown University|Georgetown|NCAA_D1|Brian Wiese|bcw26@georgetown.edu
-University of San Fransisco|USF|NCAA_D1|Baggio Husidic|bhusidic@usfca.edu
-Southern Methodist University|SMU|NCAA_D1|Brett Koziczkowsi|bkoziczkowsk@smu.edu
-Denver University|DU|NCAA_D1|Brad Franks|brad.franks@du.edu
-Wake Forest University|WFU|NCAA_D1|Dane Brenner|brennerd@wfu.edu
-University of Massachusetts|UMass|NCAA_D1|Ben Brewster|brewster@umass.edu
-Temple University|TU|NCAA_D1|Brian Rowland|brian.rowland@temple.edu
-University of San Diego|USD|NCAA_D1|Brian Quin|brianq@sandiego.edu
-Brigham Young University|BYU|NCAA_D1|Brigham Young|brigham@byu.edu
-University of Texas, Rio Grande Valley|UTRGV|NCAA_D1|Bryheem Hancock|bryheem.hancock@utrgv.edu
-Southern Methodist University|SMU|NCAA_D1|Ben Stoddard|bstoddard@smu.edu
-Virginia Commonwealth University|VCU|NCAA_D1|Brett Teach|bteach@vcu.edu
-San Diego State University|SDSU|NCAA_D1|Carlos Aguilar|caguilar3@sdsu.edu
-University of California, Berkley|Cal|NCAA_D1|Kevin Grimes|calsoccer@berkeley.edu
-University of Portland|UP|NCAA_D1|Nick Carlin-Voigt|carlinvo@up.edu
-University of San Fransisco|USF|NCAA_D1|Chris Brown|cbrown14@usfca.edu
-Coastal Carolina University|Coastal Carolina |NCAA_D1|Chris Fidler|cfidler@coastal.edu
-Saint Marys College of California|St. Marys|NCAA_D1|Cody Hoster|ch31@stmarys-ca.edu
-University of Kentucky|UK|NCAA_D1|Chase Wileman|chase.wileman@uky.edu
-University of California, Santa Barbara|UCSB|NCAA_D1|Christy Gates-Bowes|christygates-bowes@ucsb.edu
-Georgetown University|Georgetown|NCAA_D1|Connor Klekota|ck954@georgetown.edu
-Indiana University|IU|NCAA_D1|Christian Lomeli|clomeli@iu.edu
-California State University, Bakersfield|CSU Bakersfield|NCAA_D1|Chris McGaughey|cmcgaughey1@csub.edu
-California Baptist University|CBU|NCAA_D1|Coe Michaelson|cmichaelson@calbaptist.edu
-Saint Louis University|SLU|NCAA_D1|Constantin Heider|constantin.heider@slu.edu
-Xavier University|Xavier|NCAA_D1|Brian Cronin|croninb1@xavier.edu
-University of North Carolina|UNC|NCAA_D1|Carlos Somoano|csomoano@uncaa.unc.edu
-Providence University|Providence|NCAA_D1|Craig Stewart|cstewar3@providence.edu
-University of California Riverside|UC Riverside|NCAA_D1|Chris Volk|cvolk@ucr.edu
-Mount Saint Mary's University|MSMU|NCAA_D1|Daniel O'Rourke|d.j.orourke@msmary.edu
-Marquette University|MU|NCAA_D1|Danny Jarosz|daniel.jarosz@marquette.edu
-Villanova University|VU|NCAA_D1|David Carvalho|dcarva01@villanova.edu
-Saint Josephs University|SJU|NCAA_D1|Don D'Ambra|ddambra@sju.edu
-Providence University|Providence|NCAA_D1|Dave DeMello|ddemello@providence.edu
-Denver University|DU|NCAA_D1|Jose Arenas|denversoccer@du.edu
-University of Louisville|UL|NCAA_D1|Donovan Dowling|donovan@GoCards.com
-Wofford College|WC|NCAA_D1|Jake Douvas|douvasjs@wofford.edu
-Virginia Commonwealth University|VCU|NCAA_D1|Dave Giffard|drgiffard@vcu.edu
-George Mason University|GMU|NCAA_D1|Elmar Bolowich|ebolowic@gmu.edu
-University of Connecticut|UConn|NCAA_D1|Manny Hatzikostas|emanuel.hatzikostas@uconn.edu
-University of California Riverside|UC Riverside|NCAA_D1|Emilion Huerta|emilio.huerta@ucr.edu
-California State University, Fullerton|Cal State Fullerton|NCAA_D1|Enrique Cardenas|encardenas@fullerton.edu
-University of Massachusetts|UMass|NCAA_D1|Fred Balbino|ffbalbino@umass.edu
-Wofford College|WC|NCAA_D1|Nick Finotti|finottina@wofford.edu
-Drake University|Drake|NCAA_D1|Gareth Smith|gareth.Smith@drake.edu
-Loyola University, Chicago|LUC|NCAA_D1|Graham Brennan|gbrennan@luc.edu
-University of Rhode Island|URI|NCAA_D1|Gareth Elliot|gelliott@uri.edu
-University of Virginia|UV|NCAA_D1|George Gelnovatch|gg4n@virginia.edu
-California State University, Fullerton|Cal State Fullerton|NCAA_D1|George Kuntz|gkuntz@fullerton.edu
-University of California, Santa Barbara|UCSB|NCAA_D1|Greg Wilson|greg.wilson@athletics.ucsb.edu
-University of North Carolina|UNC|NCAA_D1|Grant Porter|gtporter@uncaa.unc.edu
-Rutgers University|RU|NCAA_D1|Gavin Wyse|gwyse@scarletknights.com
-California State University, Northridge|CSU Northridge|NCAA_D1|Habib Toubedjian|habib.toubedjian@csun.edu
-University of California, Berkley|Cal|NCAA_D1|Henry Foulk|henryfca@sbcglobal.net
-LaSalle University|LaSalle U|NCAA_D1|Rob Irvine|irvine@lasalle.edu
-Syracuse University|SU|NCAA_D1|Ian Mclntyre|ismcinty@syr.edu
-Marshall University|Marshall|NCAA_D1|Petsa Ivanovic|ivanovic@marshall.edu
-University of California, Berkley|Cal|NCAA_D1|Jacob Wilson|jake.wilson@berkeley.edu
-University of Louisville|UL|NCAA_D1|James Kusak|jamesk@GoCards.com
-Providence University|Providence|NCAA_D1|John Mark Andrade|jandrad4@providence.edu
-St. Johns University, New York|SJU|NCAA_D1|David Janezic|janezicd@stjohns.edu
-University of Tulsa|UTulsa|NCAA_D1|Jose Robles|jar6784@utulsa.edu
-University of Central Florida|UCF|NCAA_D1|Jamie Davies|jdavies@athletics.ucf.edu
-University of Virginia|UV|NCAA_D1|Jordan Allen|jea6md@virginia.edu
-San Jose State University|SJSU|NCAA_D1|Jesus Snachez|jesus.a.sanchez@sjsu.edu
-Syracuse University|SU|NCAA_D1|Jukka Masalin|jmasalin@syr.edu
-Rutgers University|RU|NCAA_D1|Joe Mortarulo|jmortarulo@scarletknights.com
-North Carolina State University|NC State|NCAA_D1|Jeff Negalha|jnegalh@ncsu.edu
-University of Kentucky|UK|NCAA_D1|Johan Cedergren|johan.cedergren@uky.edu
-University of Louisville|UL|NCAA_D1|John Michael Hayden|johnh@GoCards.com
-Dixie State University|DSU|NCAA_D1|Jonny Broadhead|jonathan.broadhead@dixie.edu
-California State University, Fullerton|Cal State Fullerton|NCAA_D1|Jorge Reyes|joreyes@fullerton.edu
-University of Maryland|Maryland|NCAA_D1|Jake Pace|jpace20@umd.edu
-Saint Louis University|SLU|NCAA_D1|Kevin Stoll|kevin.stoll@slu.edu
-Southern Methodist University|SMU|NCAA_D1|Kevin Hudson|khudson@smu.edu
-Pennsylvania State University|Penn State|NCAA_D1|Kate Deakins|kmd6592@psu.edu
-Indiana University|IU|NCAA_D1|Kevin Robson|kprobson@indiana.edu
-Northwestern University|NWU|NCAA_D1|Krystian Witkowski|krystian.witkowski@northwestern.edu
-North Carolina State University|NC State|NCAA_D1|Kyle Nicholls|kwnichol@ncsu.edu
-Duke University|Duke|NCAA_D1|Kyle Renfro|kyle.renfro@duke.edu
-Loyal Marymount University|LMU|NCAA_D1|Kyle Schmid|kyle.schmid@lmu.edu
-Drake University|Drake|NCAA_D1|Kyle Smith|kyle.smith@drake.edu
-North Carolina State University|NC State|NCAA_D1|Lucas Champenois|lachampe@ncsu.edu
-Grand Canyon University|GCU|NCAA_D1|Leonard Griffin|leonard.griffin@gcu.edu
-Long Island University|LIU|NCAA_D1|Luca Campos|luca.campos@liu.edu
-St. Johns University, New York|SJU|NCAA_D1|Dr. David Masur|masurd@stjohns.edu
-University of Pittsburgh|Pitt|NCAA_D1|Michael Behonick|mbehonick@athletics.pitt.edu
-University of California, Santa Barbara|UCSB|NCAA_D1|David Elias|menssoccer@athletics.ucsb.edu
-University of Tulsa|UTulsa|NCAA_D1|Chase Robertson|michael-robertson@utulsa.edu
-Utah Valley University|UVU|NCAA_D1|Michael Chesler|michael.chesler@uvu.edu
-Long Island University|LIU|NCAA_D1|Michael Mordocco|michael.mordocco@liu.edu
-Loyal Marymount University|LMU|NCAA_D1|Michael Oseguera|michael.oseguera@lmu.edu
-University of Connecticut|UConn|NCAA_D1|Mike Miller|michaelbmiller@uconn.edu
-University of San Diego|USD|NCAA_D1|Mike Nicholson|michaelnicholson@sandiego.edu
-Southern Methodist University|SMU|NCAA_D1|Michael King|mjking@mail.smu.edu
-George Washington University|GWU|NCAA_D1|Manbi Nyepon|mnyepon@gwu.edu
-University of Virginia|UV|NCAA_D1|Matt Chulis|mrc5r@virginia
-Pennsylvania State University|Penn State|NCAA_D1|Greg Dalby|msoc@athletics.psu.edu
-University of Pittsburgh|Pitt|NCAA_D1|Jay Vidovich|msoccer@athletics.pitt.edu
-University of California, Los Angeles|UCLA|NCAA_D1|Paul Killian|msoccer@athletics.ucla.edu
-Chicago State University|CSU|NCAA_D1|Trevor Demar Banks|msoccer@csu.edu
-Marshall University|Marshall|NCAA_D1|Chris Grassie|msoccer@marshall.edu
-Santa Clara University|SCU|NCAA_D1|Cameron Rast|msoccer@scu.edu
-Wake Forest University|WFU|NCAA_D1|Bobby Muuss|muussrp@wfu.edu
-University of Maryland|Maryland|NCAA_D1|Miles Vaughn|mvaughn2@umd.edu
-University of Memphis|Memphis|NCAA_D1|Norris Howze|nhowze@memphis.edu
-San Jose State University|SJSU|NCAA_D1|Nicholas Ryan|nicholas.ryan@sjsu.edu
-Xavier University|Xavier|NCAA_D1|Noel Orozco|orozcon@xavier.edu
-Coastal Carolina University|Coastal Carolina |NCAA_D1|Oliver Slawson|oslawson@coastal.edu
-George Washington University|GWU|NCAA_D1|Jake Ouimet|ouimet@gwu.edu
-George Mason University|GMU|NCAA_D1|Oliver Weiss|oweiss@gmu.edu
-University of Tulsa|UTulsa|NCAA_D1|Owen McCorkle|owm2234@utulsa.edu
-Loyal Marymount University|LMU|NCAA_D1|Paul Krumpe|paul.krumpe@lmu.edu
-Virginia Commonwealth University|VCU|NCAA_D1|Lucas Paulini|paulinil@vcu.edu
-University of Memphis|Memphis|NCAA_D1|Tony McManus|pmcmnus1@memphis.edu
-Indiana University|IU|NCAA_D1|Phalo Pietersen|ppieters@iu.edu
-LaSalle University|LaSalle U|NCAA_D1|Evan Prybutok|prybutok@lasalle.edu
-University of Connecticut|UConn|NCAA_D1|Ray Reid|ray.reid@uconn.edu
-University of Pittsburgh|Pitt|NCAA_D1|Rich Costanzo|rcostanzo@athletics.pitt.edu
-University of Portland|UP|NCAA_D1|Kris Reaves|reaves19@alumni.up.edu
-Xavier University|Xavier|NCAA_D1|Kevin Reiman|reimank@xavier.edu
-University of Tulsa|UTulsa|NCAA_D1|Raudel Fierro-Perez|rfp3955@utulsa.edu
-California State University, Bakersfield|CSU Bakersfield|NCAA_D1|Richie Grant|rgrant5@csub.edu
-San Diego State University|SDSU|NCAA_D1|Ryan Hopkins|rhopkins2@sdsu.edu
-Grand Canyon University|GCU|NCAA_D1|Ricardo Gutierrez|ricardo.gutierrez@gcu.edu
-Northwestern University|NWU|NCAA_D1|Ricardo Pinto|ricardo.pinto@northwestern.edu
-University of Memphis|Memphis|NCAA_D1|Richard Mulrooney|rmulrony@memphis.edu
-Saint Josephs University|SJU|NCAA_D1|Rich Ongaro|rongaro@sju.edu
-Houston Baptist University|HBU|NCAA_D1|Ryan Pratt|rpratt@hbu.edu
-Purdue University North West|PNW|NCAA_D1|Ryan Hayes|ryan.hayes@pnw.edu
-University of Texas, Rio Grande Valley|UTRGV|NCAA_D1|Ryan Mcdougall|ryan.mcdougall@utrgv.edu
-University of Maryland|Maryland|NCAA_D1|Sasho Cirovski|sasho@umd.edu
-University of Connecticut|UConn|NCAA_D1|Scott Halpern|scott.halpern@uconn.edu
-Coastal Carolina University|Coastal Carolina |NCAA_D1|Shaun Docking|sdocking@coastal.edu
-University of San Diego|USD|NCAA_D1|Seamus McFadden|seamusm@sandiego.edu
-Marquette University|MU|NCAA_D1|Sean Hughes|sean.hughes@marquette.edu
-Utah Valley University|UVU|NCAA_D1|Seth Trembly|seth.trembly@uvu.edu
-Boston College|BC|NCAA_D1|John Shimer|shimerj@bc.edu
-San Jose State University|SJSU|NCAA_D1|Simon Tobin|simon.tobin@sjsu.edu
-Saint Louis University|SLU|NCAA_D1|Skip Grossman|skip.grossman@slu.edu
-Stanford University|Stanford|NCAA_D1|Jeremy Gunn|smsoccer@stanford.edu
-University of Central Florida|UCF|NCAA_D1|Paul Sounders|soccer@athletics.ucf.edu
-Syracuse University|SU|NCAA_D1|Sean Lawlor|splawlor@syr.edu
-University of South Carolina|South Carolina|NCAA_D1|Keith Scruggs|stevenks@mailbox.sc.edu
-California Baptist University|CBU|NCAA_D1|Stephan Marshall|stmarshall@calbaptist.edu
-Saint Josephs University|SJU|NCAA_D1|Steve Wacker|swacker@sju.edu
-Mount Saint Mary's University|MSMU|NCAA_D1|Trevor Singer|t.j.singer@msmary.edu
-California State University, Northridge|CSU Northridge|NCAA_D1|Terry Davila|terry.davila@csun.edu
-University of Tulsa|UTulsa|NCAA_D1|Tom McIntosh|thomas-mcintosh@utulsa.edu
-University of North Carolina|UNC|NCAA_D1|Tim KÃ¼bel|timkubel@live.unc.edu
-University of Rhode Island|URI|NCAA_D1|Tony Bassett|tony_bassett@uri.edu
-Rutgers University|RU|NCAA_D1|Tyler Stakiwcz|tstakiwicz@scarletknights.com
-Temple University|TU|NCAA_D1|Armante' Marshall|tuj90512@temple.edu
-Temple University|TU|NCAA_D1|Kevin McMullen|tuk04091@temple.edu
-Wofford College|WC|NCAA_D1|Joel Tyson|tysonje1@wofford.edu
-California State University, Fullerton|Cal State Fullerton|NCAA_D1|Julian Ortega|uortega@fullerton.edu
-Marshall University|Marshall|NCAA_D1|Anthony Uriarte|uriarte@marshall.edu
-California State University, Northridge|CSU Northridge|NCAA_D1|Victor Garcia|victor.garcia@csun.edu
-Virginia Tech University|VTU|NCAA_D1|Patrick McSorley|vtmsoccer@vt.edu
-Villanova University|VU|NCAA_D1|Tom Carlin|vumensscoccer@villanova.edu.
-George Mason University|GMU|NCAA_D1|Billy Chiles|wchiles@gmu.edu
-University of North Carolina|UNC|NCAA_D1|Will Clayton|whc@unc.edu
-University of Portland|UP|NCAA_D1|Ben Zemanski|zemanski@up.edu
+Division|SchoolName|SchoolNameShort|CoachName|CoachEmail
+NCAA_D1|Oregon State University|OSU|Alex Guyer| Alex.Guyer@oregonstate.edu
+NCAA_D1|Oregon State University|OSU|BJ Craig| BJ.Craig@oregonstate.edu
+NCAA_D1|University of the Pacific|U Pacific|Brian Lanoye| Blanoye@pacific.edu
+NCAA_D1|University of Kentucky|UK|Josh Oldroyd| Josh.Oldroyd@uky.edu
+NCAA_D1|Marquette University|MU|Louis Bennett| Louis.bennett@marquette.edu
+NCAA_D1|Dayton University|Dayton|Alex Ranalli| aranalli1@udayton.edu
+NCAA_D1|University of the Pacific|U Pacific|Adam Reeves| areeves@pacific.edu
+NCAA_D1|Wake Forest University|WFU|Steve Armas| armasas@wfu.edu
+NCAA_D1|Georgetown University|Georgetown|Brian Bouhl| bb1044@georgetown.edu
+NCAA_D1|University of Louisville|UL|Bryan Green| bryang@GoCards.com
+NCAA_D1|Houston Baptist University|HBU|Chris Dodd| cdodd@hbu.edu
+NCAA_D1|Boston College|BC|Charlie Rugg| charles.rugg@bc.edu
+NCAA_D1|George Washington University|GWU|Craig Jones| cjones1@gwu.edu
+NCAA_D1|Dayton University|Dayton|Dennis Currier| dcurrier1@udayton.edu
+NCAA_D1|LaSalle University|LaSalle U|Mike Discavage| discavage@lasalle.edu
+NCAA_D1|Indiana University|IU|Danny O'Rourke| dporourk@indiana.edu
+NCAA_D1|Marshall University|Marshall|Josh Faga| faga@marshall.edu
+NCAA_D1|University of Rhode Island|URI|Frank Bergren| frank_bergren@uri.edu
+NCAA_D1|North Carolina State University|NC State|George Kiefer| grkiefer@ncsu.edu
+NCAA_D1|Davidson University|Davidson|Jarred Brookins| jabrookins@davidson.edu
+NCAA_D1|Davidson University|Davidson|Jesse DiLuzio| jediluzio@davidson.edu
+NCAA_D1|California State University, Bakersfield|CSU Bakersfield|James Garces| jgarces1@csub.edu
+NCAA_D1|Duke University|Duke|John Kerr| jjk21@duke.edu
+NCAA_D1|Dayton University|Dayton|Kelly Altman| kaltman2@udayton.edu
+NCAA_D1|Saint Louis University|SLU|Kevin Kalish| kevin.kalish@slu.edu
+NCAA_D1|Gonzaga University|GU|Aaron Lewis| lewisa@gonzaga.edu
+NCAA_D1|Georgetown University|Georgetown|Mike Casper| mc2420@georgetown.edu
+NCAA_D1|Davidson University|Davidson|Mike Babst| mibabst@davidson.edu
+NCAA_D1|Duke University|Duke|Michael Brady| michael.brady@duke.edu
+NCAA_D1|University of California, Los Angeles|UCLA|Andres Ochoa| msoccer@athletics.ucla.edu
+NCAA_D1|Loyola University, Chicago|LUC|Niel Jones| njones11@luc.edu
+NCAA_D1|University of Massachusetts|UMass|Ryan Hulings| rhulings@umass.edu
+NCAA_D1|Northwestern University|NWU|Russell Payne| russell.payne@northwestern.edu
+NCAA_D1|Marshall University|Marshall|Kyle Sniatecki| sniatecki@marshall.edu
+NCAA_D1|University of San Fransisco|USF|Sam Reynolds| sreynolds1@usfca.edu
+NCAA_D1|Oregon State University|OSU|Terry Boss| terence.boss@oregonstate.edu
+NCAA_D1|Duke University|Duke|Tristan Wierbonski| tristan.wierbonski@duke.edu
+NCAA_D1|University of Massachusetts|UMass|Fran O'Leary| umassmsoccer@umass.edu
+NCAA_D1|Wake Forest University|WFU|Jonathan Lagos| wfsoccer@wfu.edu
+NCAA_D1|Gonzaga University|GU|James Williamson| williamsonj@gonzaga.edu
+NCAA_D1|Temple University|TU|Alex Shinsky|Alex.Shinsky@temple.edu
+NCAA_D1|West Virginia University|WVU|Andy Wright|Andy.Wright@mail.wvu.edu
+NCAA_D1|Long Island University|LIU|Brendan Reardon|Brendan.Reardon@liu.edu
+NCAA_D1|Nortre Dame|ND|Chris Rolfe|CROLFE@ND.EDU
+NCAA_D1|Loyal Marymount University|LMU|Christian Madrigal|Christian.Madrigal@lmu.edu
+NCAA_D1|University of Kentucky|UK|Marcus Aldaba|M.Aldaba@uky.edu
+NCAA_D1|Nortre Dame|ND|Mike Graczyk|MGRACZYK@ND.EDU
+NCAA_D1|Nortre Dame|ND|Chad Riley|MSOCCER-LIST@ND.EDU
+NCAA_D1|California State University, Northridge|CSU Northridge|Milan Radovic|Milan.radovic@csun.edu
+NCAA_D1|West Virginia University|WVU|Nick Noble|Nick.Noble@mail.wvu.edu
+NCAA_D1|University of South Carolina|South Carolina|Tony Annan|SCMensSoccer@mailbox.sc.edu
+NCAA_D1|University of California Riverside|UC Riverside|Tim Cupello|Tim.Cupello@ucr.edu
+NCAA_D1|University of California, Santa Barbara|UCSB|Tim Vom Steeg|Tim.VomSteeg@athletics.ucsb.edu
+NCAA_D1|Denver University|DU|Zach Schilawski|Zachary.Schilawski@du.edu
+NCAA_D1|Saint Marys College of California|St. Marys|Adam Cooper|acooper@stmarys-ca.edu
+NCAA_D1|University of Central Florida|UCF|Alex Gott|agott@athletics.ucf.edu
+NCAA_D1|University of Connecticut|UConn|Andy Parker|andrew.parker@uconn.edu
+NCAA_D1|University of Virginia|UV|Adam Perron|anp7d@virginia.edu
+NCAA_D1|University of South Carolina|South Carolina|Alec Purdie|apurdie@mailbox.sc.edu
+NCAA_D1|University of Texas, Rio Grande Valley|UTRGV|Archie Massen|archie.massen01@utrgv.edu
+NCAA_D1|Grand Canyon University|GCU|Austin Nyquist|austin.nyquist@gcu.edu
+NCAA_D1|Northwestern University|NWU|Aziz Tahir|aziz.tahir@northwestern.edu
+NCAA_D1|Mount Saint Mary's University|MSMU|Bryan Cunningham|b.m.cunningham@msmary.edu
+NCAA_D1|Georgetown University|Georgetown|Brian Wiese|bcw26@georgetown.edu
+NCAA_D1|University of San Fransisco|USF|Baggio Husidic|bhusidic@usfca.edu
+NCAA_D1|Southern Methodist University|SMU|Brett Koziczkowsi|bkoziczkowsk@smu.edu
+NCAA_D1|Denver University|DU|Brad Franks|brad.franks@du.edu
+NCAA_D1|Wake Forest University|WFU|Dane Brenner|brennerd@wfu.edu
+NCAA_D1|University of Massachusetts|UMass|Ben Brewster|brewster@umass.edu
+NCAA_D1|Temple University|TU|Brian Rowland|brian.rowland@temple.edu
+NCAA_D1|University of San Diego|USD|Brian Quin|brianq@sandiego.edu
+NCAA_D1|Brigham Young University|BYU|Brigham Young|brigham@byu.edu
+NCAA_D1|University of Texas, Rio Grande Valley|UTRGV|Bryheem Hancock|bryheem.hancock@utrgv.edu
+NCAA_D1|Southern Methodist University|SMU|Ben Stoddard|bstoddard@smu.edu
+NCAA_D1|Virginia Commonwealth University|VCU|Brett Teach|bteach@vcu.edu
+NCAA_D1|San Diego State University|SDSU|Carlos Aguilar|caguilar3@sdsu.edu
+NCAA_D1|University of California, Berkley|Cal|Kevin Grimes|calsoccer@berkeley.edu
+NCAA_D1|University of Portland|UP|Nick Carlin-Voigt|carlinvo@up.edu
+NCAA_D1|University of San Fransisco|USF|Chris Brown|cbrown14@usfca.edu
+NCAA_D1|Coastal Carolina University|Coastal Carolina |Chris Fidler|cfidler@coastal.edu
+NCAA_D1|Saint Marys College of California|St. Marys|Cody Hoster|ch31@stmarys-ca.edu
+NCAA_D1|University of Kentucky|UK|Chase Wileman|chase.wileman@uky.edu
+NCAA_D1|University of California, Santa Barbara|UCSB|Christy Gates-Bowes|christygates-bowes@ucsb.edu
+NCAA_D1|Georgetown University|Georgetown|Connor Klekota|ck954@georgetown.edu
+NCAA_D1|Indiana University|IU|Christian Lomeli|clomeli@iu.edu
+NCAA_D1|California State University, Bakersfield|CSU Bakersfield|Chris McGaughey|cmcgaughey1@csub.edu
+NCAA_D1|California Baptist University|CBU|Coe Michaelson|cmichaelson@calbaptist.edu
+NCAA_D1|Saint Louis University|SLU|Constantin Heider|constantin.heider@slu.edu
+NCAA_D1|Xavier University|Xavier|Brian Cronin|croninb1@xavier.edu
+NCAA_D1|University of North Carolina|UNC|Carlos Somoano|csomoano@uncaa.unc.edu
+NCAA_D1|Providence University|Providence|Craig Stewart|cstewar3@providence.edu
+NCAA_D1|University of California Riverside|UC Riverside|Chris Volk|cvolk@ucr.edu
+NCAA_D1|Mount Saint Mary's University|MSMU|Daniel O'Rourke|d.j.orourke@msmary.edu
+NCAA_D1|Marquette University|MU|Danny Jarosz|daniel.jarosz@marquette.edu
+NCAA_D1|Villanova University|VU|David Carvalho|dcarva01@villanova.edu
+NCAA_D1|Saint Josephs University|SJU|Don D'Ambra|ddambra@sju.edu
+NCAA_D1|Providence University|Providence|Dave DeMello|ddemello@providence.edu
+NCAA_D1|Denver University|DU|Jose Arenas|denversoccer@du.edu
+NCAA_D1|University of Louisville|UL|Donovan Dowling|donovan@GoCards.com
+NCAA_D1|Wofford College|WC|Jake Douvas|douvasjs@wofford.edu
+NCAA_D1|Virginia Commonwealth University|VCU|Dave Giffard|drgiffard@vcu.edu
+NCAA_D1|George Mason University|GMU|Elmar Bolowich|ebolowic@gmu.edu
+NCAA_D1|University of Connecticut|UConn|Manny Hatzikostas|emanuel.hatzikostas@uconn.edu
+NCAA_D1|University of California Riverside|UC Riverside|Emilion Huerta|emilio.huerta@ucr.edu
+NCAA_D1|California State University, Fullerton|Cal State Fullerton|Enrique Cardenas|encardenas@fullerton.edu
+NCAA_D1|University of Massachusetts|UMass|Fred Balbino|ffbalbino@umass.edu
+NCAA_D1|Wofford College|WC|Nick Finotti|finottina@wofford.edu
+NCAA_D1|Drake University|Drake|Gareth Smith|gareth.Smith@drake.edu
+NCAA_D1|Loyola University, Chicago|LUC|Graham Brennan|gbrennan@luc.edu
+NCAA_D1|University of Rhode Island|URI|Gareth Elliot|gelliott@uri.edu
+NCAA_D1|University of Virginia|UV|George Gelnovatch|gg4n@virginia.edu
+NCAA_D1|California State University, Fullerton|Cal State Fullerton|George Kuntz|gkuntz@fullerton.edu
+NCAA_D1|University of California, Santa Barbara|UCSB|Greg Wilson|greg.wilson@athletics.ucsb.edu
+NCAA_D1|University of North Carolina|UNC|Grant Porter|gtporter@uncaa.unc.edu
+NCAA_D1|Rutgers University|RU|Gavin Wyse|gwyse@scarletknights.com
+NCAA_D1|California State University, Northridge|CSU Northridge|Habib Toubedjian|habib.toubedjian@csun.edu
+NCAA_D1|University of California, Berkley|Cal|Henry Foulk|henryfca@sbcglobal.net
+NCAA_D1|LaSalle University|LaSalle U|Rob Irvine|irvine@lasalle.edu
+NCAA_D1|Syracuse University|SU|Ian Mclntyre|ismcinty@syr.edu
+NCAA_D1|Marshall University|Marshall|Petsa Ivanovic|ivanovic@marshall.edu
+NCAA_D1|University of California, Berkley|Cal|Jacob Wilson|jake.wilson@berkeley.edu
+NCAA_D1|University of Louisville|UL|James Kusak|jamesk@GoCards.com
+NCAA_D1|Providence University|Providence|John Mark Andrade|jandrad4@providence.edu
+NCAA_D1|St. Johns University, New York|SJU|David Janezic|janezicd@stjohns.edu
+NCAA_D1|University of Tulsa|UTulsa|Jose Robles|jar6784@utulsa.edu
+NCAA_D1|University of Central Florida|UCF|Jamie Davies|jdavies@athletics.ucf.edu
+NCAA_D1|University of Virginia|UV|Jordan Allen|jea6md@virginia.edu
+NCAA_D1|San Jose State University|SJSU|Jesus Snachez|jesus.a.sanchez@sjsu.edu
+NCAA_D1|Syracuse University|SU|Jukka Masalin|jmasalin@syr.edu
+NCAA_D1|Rutgers University|RU|Joe Mortarulo|jmortarulo@scarletknights.com
+NCAA_D1|North Carolina State University|NC State|Jeff Negalha|jnegalh@ncsu.edu
+NCAA_D1|University of Kentucky|UK|Johan Cedergren|johan.cedergren@uky.edu
+NCAA_D1|University of Louisville|UL|John Michael Hayden|johnh@GoCards.com
+NCAA_D1|Dixie State University|DSU|Jonny Broadhead|jonathan.broadhead@dixie.edu
+NCAA_D1|California State University, Fullerton|Cal State Fullerton|Jorge Reyes|joreyes@fullerton.edu
+NCAA_D1|University of Maryland|Maryland|Jake Pace|jpace20@umd.edu
+NCAA_D1|Saint Louis University|SLU|Kevin Stoll|kevin.stoll@slu.edu
+NCAA_D1|Southern Methodist University|SMU|Kevin Hudson|khudson@smu.edu
+NCAA_D1|Pennsylvania State University|Penn State|Kate Deakins|kmd6592@psu.edu
+NCAA_D1|Indiana University|IU|Kevin Robson|kprobson@indiana.edu
+NCAA_D1|Northwestern University|NWU|Krystian Witkowski|krystian.witkowski@northwestern.edu
+NCAA_D1|North Carolina State University|NC State|Kyle Nicholls|kwnichol@ncsu.edu
+NCAA_D1|Duke University|Duke|Kyle Renfro|kyle.renfro@duke.edu
+NCAA_D1|Loyal Marymount University|LMU|Kyle Schmid|kyle.schmid@lmu.edu
+NCAA_D1|Drake University|Drake|Kyle Smith|kyle.smith@drake.edu
+NCAA_D1|North Carolina State University|NC State|Lucas Champenois|lachampe@ncsu.edu
+NCAA_D1|Grand Canyon University|GCU|Leonard Griffin|leonard.griffin@gcu.edu
+NCAA_D1|Long Island University|LIU|Luca Campos|luca.campos@liu.edu
+NCAA_D1|St. Johns University, New York|SJU|Dr. David Masur|masurd@stjohns.edu
+NCAA_D1|University of Pittsburgh|Pitt|Michael Behonick|mbehonick@athletics.pitt.edu
+NCAA_D1|University of California, Santa Barbara|UCSB|David Elias|menssoccer@athletics.ucsb.edu
+NCAA_D1|University of Tulsa|UTulsa|Chase Robertson|michael-robertson@utulsa.edu
+NCAA_D1|Utah Valley University|UVU|Michael Chesler|michael.chesler@uvu.edu
+NCAA_D1|Long Island University|LIU|Michael Mordocco|michael.mordocco@liu.edu
+NCAA_D1|Loyal Marymount University|LMU|Michael Oseguera|michael.oseguera@lmu.edu
+NCAA_D1|University of Connecticut|UConn|Mike Miller|michaelbmiller@uconn.edu
+NCAA_D1|University of San Diego|USD|Mike Nicholson|michaelnicholson@sandiego.edu
+NCAA_D1|Southern Methodist University|SMU|Michael King|mjking@mail.smu.edu
+NCAA_D1|George Washington University|GWU|Manbi Nyepon|mnyepon@gwu.edu
+NCAA_D1|University of Virginia|UV|Matt Chulis|mrc5r@virginia
+NCAA_D1|Pennsylvania State University|Penn State|Greg Dalby|msoc@athletics.psu.edu
+NCAA_D1|University of Pittsburgh|Pitt|Jay Vidovich|msoccer@athletics.pitt.edu
+NCAA_D1|University of California, Los Angeles|UCLA|Paul Killian|msoccer@athletics.ucla.edu
+NCAA_D1|Chicago State University|CSU|Trevor Demar Banks|msoccer@csu.edu
+NCAA_D1|Marshall University|Marshall|Chris Grassie|msoccer@marshall.edu
+NCAA_D1|Santa Clara University|SCU|Cameron Rast|msoccer@scu.edu
+NCAA_D1|Wake Forest University|WFU|Bobby Muuss|muussrp@wfu.edu
+NCAA_D1|University of Maryland|Maryland|Miles Vaughn|mvaughn2@umd.edu
+NCAA_D1|University of Memphis|Memphis|Norris Howze|nhowze@memphis.edu
+NCAA_D1|San Jose State University|SJSU|Nicholas Ryan|nicholas.ryan@sjsu.edu
+NCAA_D1|Xavier University|Xavier|Noel Orozco|orozcon@xavier.edu
+NCAA_D1|Coastal Carolina University|Coastal Carolina |Oliver Slawson|oslawson@coastal.edu
+NCAA_D1|George Washington University|GWU|Jake Ouimet|ouimet@gwu.edu
+NCAA_D1|George Mason University|GMU|Oliver Weiss|oweiss@gmu.edu
+NCAA_D1|University of Tulsa|UTulsa|Owen McCorkle|owm2234@utulsa.edu
+NCAA_D1|Loyal Marymount University|LMU|Paul Krumpe|paul.krumpe@lmu.edu
+NCAA_D1|Virginia Commonwealth University|VCU|Lucas Paulini|paulinil@vcu.edu
+NCAA_D1|University of Memphis|Memphis|Tony McManus|pmcmnus1@memphis.edu
+NCAA_D1|Indiana University|IU|Phalo Pietersen|ppieters@iu.edu
+NCAA_D1|LaSalle University|LaSalle U|Evan Prybutok|prybutok@lasalle.edu
+NCAA_D1|University of Connecticut|UConn|Ray Reid|ray.reid@uconn.edu
+NCAA_D1|University of Pittsburgh|Pitt|Rich Costanzo|rcostanzo@athletics.pitt.edu
+NCAA_D1|University of Portland|UP|Kris Reaves|reaves19@alumni.up.edu
+NCAA_D1|Xavier University|Xavier|Kevin Reiman|reimank@xavier.edu
+NCAA_D1|University of Tulsa|UTulsa|Raudel Fierro-Perez|rfp3955@utulsa.edu
+NCAA_D1|California State University, Bakersfield|CSU Bakersfield|Richie Grant|rgrant5@csub.edu
+NCAA_D1|San Diego State University|SDSU|Ryan Hopkins|rhopkins2@sdsu.edu
+NCAA_D1|Grand Canyon University|GCU|Ricardo Gutierrez|ricardo.gutierrez@gcu.edu
+NCAA_D1|Northwestern University|NWU|Ricardo Pinto|ricardo.pinto@northwestern.edu
+NCAA_D1|University of Memphis|Memphis|Richard Mulrooney|rmulrony@memphis.edu
+NCAA_D1|Saint Josephs University|SJU|Rich Ongaro|rongaro@sju.edu
+NCAA_D1|Houston Baptist University|HBU|Ryan Pratt|rpratt@hbu.edu
+NCAA_D1|Purdue University North West|PNW|Ryan Hayes|ryan.hayes@pnw.edu
+NCAA_D1|University of Texas, Rio Grande Valley|UTRGV|Ryan Mcdougall|ryan.mcdougall@utrgv.edu
+NCAA_D1|University of Maryland|Maryland|Sasho Cirovski|sasho@umd.edu
+NCAA_D1|University of Connecticut|UConn|Scott Halpern|scott.halpern@uconn.edu
+NCAA_D1|Coastal Carolina University|Coastal Carolina |Shaun Docking|sdocking@coastal.edu
+NCAA_D1|University of San Diego|USD|Seamus McFadden|seamusm@sandiego.edu
+NCAA_D1|Marquette University|MU|Sean Hughes|sean.hughes@marquette.edu
+NCAA_D1|Utah Valley University|UVU|Seth Trembly|seth.trembly@uvu.edu
+NCAA_D1|Boston College|BC|John Shimer|shimerj@bc.edu
+NCAA_D1|San Jose State University|SJSU|Simon Tobin|simon.tobin@sjsu.edu
+NCAA_D1|Saint Louis University|SLU|Skip Grossman|skip.grossman@slu.edu
+NCAA_D1|Stanford University|Stanford|Jeremy Gunn|smsoccer@stanford.edu
+NCAA_D1|University of Central Florida|UCF|Paul Sounders|soccer@athletics.ucf.edu
+NCAA_D1|Syracuse University|SU|Sean Lawlor|splawlor@syr.edu
+NCAA_D1|University of South Carolina|South Carolina|Keith Scruggs|stevenks@mailbox.sc.edu
+NCAA_D1|California Baptist University|CBU|Stephan Marshall|stmarshall@calbaptist.edu
+NCAA_D1|Saint Josephs University|SJU|Steve Wacker|swacker@sju.edu
+NCAA_D1|Mount Saint Mary's University|MSMU|Trevor Singer|t.j.singer@msmary.edu
+NCAA_D1|California State University, Northridge|CSU Northridge|Terry Davila|terry.davila@csun.edu
+NCAA_D1|University of Tulsa|UTulsa|Tom McIntosh|thomas-mcintosh@utulsa.edu
+NCAA_D1|University of North Carolina|UNC|Tim KÃ¼bel|timkubel@live.unc.edu
+NCAA_D1|University of Rhode Island|URI|Tony Bassett|tony_bassett@uri.edu
+NCAA_D1|Rutgers University|RU|Tyler Stakiwcz|tstakiwicz@scarletknights.com
+NCAA_D1|Temple University|TU|Armante' Marshall|tuj90512@temple.edu
+NCAA_D1|Temple University|TU|Kevin McMullen|tuk04091@temple.edu
+NCAA_D1|Wofford College|WC|Joel Tyson|tysonje1@wofford.edu
+NCAA_D1|California State University, Fullerton|Cal State Fullerton|Julian Ortega|uortega@fullerton.edu
+NCAA_D1|Marshall University|Marshall|Anthony Uriarte|uriarte@marshall.edu
+NCAA_D1|California State University, Northridge|CSU Northridge|Victor Garcia|victor.garcia@csun.edu
+NCAA_D1|Virginia Tech University|VTU|Patrick McSorley|vtmsoccer@vt.edu
+NCAA_D1|Villanova University|VU|Tom Carlin|vumensscoccer@villanova.edu.
+NCAA_D1|George Mason University|GMU|Billy Chiles|wchiles@gmu.edu
+NCAA_D1|University of North Carolina|UNC|Will Clayton|whc@unc.edu
+NCAA_D1|University of Portland|UP|Ben Zemanski|zemanski@up.edu
+NCAA_D2|University of Charleston|UC|Travis Brent|travisbrent@ucwv.edu
+NCAA_D2|University of Charleston|UC|Gary Ogilvie|garyogilvie@ucwv.edu
+NCAA_D2|University of Charleston|UC|Gabriel Cabral|gabrielcabral@ucwv.edu
+NCAA_D2|California State University, Los Angeles|Cal State LA|Chris Chamid| cchamid@exchange.calstatela.edu
+NCAA_D2|California State University, Los Angeles|Cal State LA|Michael Erush|merush@calstatela.edu
+NCAA_D2|Lynn University|Lynn|John Rootes|jrootes@lynn.edu
+NCAA_D2|Lynn University|Lynn|Anthony Desperito|adesperito@lynn.edu
+NCAA_D2|University of Indianapolis|UIndy|John Higgins| higginsj@uindy.edu
+NCAA_D2|University of Indianapolis|UIndy|Rob Coonfield| coonfieldr@uindy.edu
+NCAA_D2|Franklin Pierce University|FPU|Ruben Resendes|resendesr@franklinpierce.edu
+NCAA_D2|Franklin Pierce University|FPU|Franklin Pierce|pachecob@franklinpierce.edu
+NCAA_D2|Wingate University|Wingate U|Gary Hamill|hamill@wingate.edu
+NCAA_D2|Wingate University|Wingate |Harry Crosbee|hccrosbee@wingate.edu
+NCAA_D2|Wingate University|Wingate U|Sam Raper|sa.raper644@wingate.edu
+NCAA_D2|Wingate University|Wingate U|Aksel Juul|ak.juul@wingate.edu
+NCAA_D2|California State University, San Bernardino|Cal State SB|Josh Hill| joshua.hill@csusb.edu
+NCAA_D2|Colorado School Of Mines|CSM|Greg Mulholland|gmulholl@mines.edu
+NCAA_D2|Colorado School Of Mines|CSM|Clint Moore| csmoore@mines.edu
+NCAA_D2|Lander University|Lander U|Lee Squires|lsquires@lander.edu
+NCAA_D2|Lander University|Lander U|Dale Parker|dparker@lander.edu
+NCAA_D2|Lander University|Lander U|Steve Richards|rsadoc2012@gmail.com
+NCAA_D2|Palm Beach Atlantic University|PBA|Brian McMahon|mac_mcmahon@pba.edu
+NCAA_D2|Palm Beach Atlantic University|PBA|Jack Burrows| jack_burrows@pba.edu
+NCAA_D2|Azusa Pacific University|APU|Joel Robinson|jsrobinson@apu.edu

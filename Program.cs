@@ -12,6 +12,22 @@ namespace FinalProject
     {
         static void Main()
         {
+            Console.WriteLine("Please select which division you would like to search (select a-c):");
+            Console.WriteLine("\t[a] NCAA Divison 1");
+            Console.WriteLine("\t[b] NCAA Divison 2");
+            Console.WriteLine("\t[c] Both");
+
+            Console.Write("Please enter your selection here: ");
+
+            string divSelection = Console.ReadLine();
+            
+            if(ValidateDiv(divSelection) == false)
+            {
+                return;
+            }
+            
+            string divisionKey = GetDivSearchKey(divSelection);
+
             Console.Write("Please enter a school name: ");
             string? schoolName = Console.ReadLine();
 
@@ -27,6 +43,43 @@ namespace FinalProject
                 FormatOutput(coach);
             }
         }
+
+        static bool ValidateDiv(string divSelection)
+        {
+            if (divSelection.ToLower() == "a" || divSelection.ToLower() == "b" || divSelection.ToLower() == "c")
+            {
+                return true;
+            }
+            else
+            {
+                Console.WriteLine("Your entry is invalid...please enter a letter a-c");
+                return false;
+            }
+        }
+
+        static string GetDivSearchKey(string divSelection)
+        {
+            string divisionKey = "";
+
+            switch (divSelection.ToLower())
+            {
+                case "a": 
+                    divisionKey = "NCAA_D1";
+                    break;  
+                
+                case "b": 
+                    divisionKey = "NCAA_D2";
+                    break;
+
+                default: 
+                    divisionKey = "ALL";
+                    break;
+            }
+
+            return divisionKey;
+        }
+
+
         //This method will be able to go through the file
         //After this is done it will return the coaches from the certain school
         static List<string> CoachSearch(string school, IEnumerable<string> fileContents)
