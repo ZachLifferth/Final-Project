@@ -1,5 +1,5 @@
 ﻿//Written by Zach Lifferth
-//Final Project CS 1400
+//Final Project: Website
 //Coach Emailer Program
 
 //This program will give you the ability to seach a school that you are interested in and will return
